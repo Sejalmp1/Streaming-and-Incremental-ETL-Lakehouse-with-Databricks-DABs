@@ -1,4 +1,4 @@
-# 🎵 Incremental ETL and Dimensional Modeling Platform on Azure Lakehouse Architecture
+# 🎵 Streaming & Incremental ETL Lakehouse with Databricks DABs
 
 An enterprise-grade data platform implementing a Medallion Architecture on Azure. This project demonstrates high-scale streaming logic, Change Data Capture (CDC), and professional DevOps workflows using Databricks Asset Bundles (DABs).
 
